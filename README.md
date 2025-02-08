@@ -18,15 +18,15 @@ The Saskatchewan Charity Resource Hub aims to address the challenge faced by cha
 ## Contributors
 
 * **South Saskatchewan Community Foundation (SSCF):** Project Sponsor and Content Provider
-* **Group H Team Members:** Rida Hashmi
-                            Mohammad Suhayb Hoolash
-                            Youssef Abdelaziz
+* **Group H Team Members:** Rida Hashmi,
+                            Mohammad Suhayb Hoolash,
+                            Youssef Abdelaziz,
                             Ogunrinde Gbolabo  
 
 
 ## Technologies Used
 
-* **Project Management:** StoriesOnBoard, Figma, GitHub
+* **Project Management:** StoriesOnBoard, Figma, GitHub, Mural, WordPress
 
 
 
