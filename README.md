@@ -27,10 +27,3 @@ The Saskatchewan Charity Resource Hub aims to address the challenge faced by cha
 ## Technologies Used
 
 * **Project Management:** StoriesOnBoard, Figma, GitHub, Mural, WordPress
-
-
-
-## Repository Structure
-
-* `/docs`: Contains documentation, including this README, user guides, and technical specifications.
-* `/assets`: Contains images, videos, and other assets used in the project.
